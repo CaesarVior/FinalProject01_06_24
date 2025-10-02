@@ -4,6 +4,7 @@ public class Test {
         System.out.println("Caesar_Vior_Absen06 menambahkan baris baru");
         System.out.println("Hello's there, Kiyah's here");
         System.out.println("Kiyah's love RMA");
+        System.out.println("Raffi want to work more");
     }
 
 }
